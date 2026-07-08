@@ -60,3 +60,8 @@ android/.gradle/
 
 # Caché local de Supabase CLI (supabase link)
 supabase/.temp/
+
+# Firma de release (nunca commitear)
+android/key.properties
+*.jks
+*.keystore

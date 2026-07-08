@@ -57,3 +57,6 @@ ios/Runner/GoogleService-Info.plist
 android/build/
 android/app/build/
 android/.gradle/
+
+# Caché local de Supabase CLI (supabase link)
+supabase/.temp/
